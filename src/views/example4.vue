@@ -16,8 +16,7 @@
     </p>
     </div>
     
-    <img class="right" src="https://raw.githubusercontent.com/wty262690/
-vue-p5-homework-RainbowChamberSingers-webside/main/src/photo/newright.png" style="float:right; margin: 5px;" />
+    <img class="right" src="https://raw.githubusercontent.com/wty262690/vue-p5-homework-RainbowChamberSingers-webside/main/src/photo/newright.png" style="float:right; margin: 5px;" />
     <div class="inturd detall">
         <p class="word">那一天，人類終於回想起了，曾經春節回家的恐怖，還有被各路親戚超負荷關心所支配的那份屈辱</p>
         <p class="word">《春節自救指南》是由上海彩虹室內合唱團自主研發的神奇藥丸，專治父母逼婚、親戚圍堵、熊孩爆炸、隔壁老王等春節頑疾。</p>
