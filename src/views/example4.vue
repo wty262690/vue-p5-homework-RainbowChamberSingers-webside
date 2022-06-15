@@ -2,7 +2,7 @@
 <span unselectable="on" >
     <router-link to="/" class="back fa fa-angle-double-left"></router-link>
     <div class="inturd">
-    <img class="left" src="https://raw.githubusercontent.com/wty262690/vue-p5-finalhomework-git/main/src/photo/left.png" style="float:left; margin: 5px;" />
+    <img class="left" src="https://raw.githubusercontent.com/wty262690/vue-p5-homework-RainbowChamberSingers-webside/main/src/photo/left.png" style="float:left; margin: 5px;" />
     <p class="songname">春節自救指南</p>
     <p>What I Do Is For Your Own Good</p>
     <p class="char">上海彩虹室內合唱團</p>
