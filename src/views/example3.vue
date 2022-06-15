@@ -25,7 +25,7 @@
             </div>
             <div id="player-content">
                 <div id="album-art">
-                    <img src="https://raw.githubusercontent.com/wty262690/vue-p5-finalhomework-git/main/src/photo/spring.png" class="active" id="_1">
+                    <img src="https://raw.githubusercontent.com/wty262690/vue-p5-homework-RainbowChamberSingers-webside/main/src/photo/spring.png" class="active" id="_1">
                 </div>
                 <div id="player-controls">
                     <div class="control">
@@ -74,7 +74,7 @@ $(function()
     albums = ['春節自救指南'], 
     trackNames = ['上海彩虹室內合唱團'],
     albumArtworks = ['_1','_2','_3','_4','_5'],
-    trackUrl = ['https://raw.githubusercontent.com/wty262690/vue-p5-finalhomework-git/main/src/sound/ranbow_newyear.mp3','https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/1.mp3','https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3','https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3','https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3'], playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
+    trackUrl = ['https://raw.githubusercontent.com/wty262690/vue-p5-homework-RainbowChamberSingers-webside/main/src/sound/ranbow_newyear.mp3','https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/1.mp3','https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3','https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3','https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3'], playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 
     function playPause()
     {
